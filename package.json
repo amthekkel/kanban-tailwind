@@ -1,0 +1,24 @@
+{
+  "name": "kanban-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-tqb:amthekkel/kanban-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "parcel": "^2.0.0-nightly.688",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2"
+  }
+}
